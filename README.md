@@ -29,7 +29,7 @@ Siga os passos abaixo para clonar e executar o projeto localmente:
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/chef-ia.git
+git clone https://github.com/gabbfernyh/chef-ia.git
 ```
 
 ### 2. Acesse a pasta do projeto
